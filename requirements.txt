@@ -11,5 +11,3 @@ visitor==0.1.3
 flask-mysqldb ==1.0.1
 mysqlclient == 2.1.1
 
-# code
-# updation
